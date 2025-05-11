@@ -1,9 +1,30 @@
-{
-  "secretCode": "EscanorDevelopments251011",
-  "description": "This key is premium key!", 
-  "lastUpdated": "2025-04-11",
-  "author": "Athena Escanor", 
-  "status": "Active",
-  "license": "MIT",
-  "version": "1.0.0"
-}
+[
+    {
+        "username": "Diego Escanor",
+        "password": "Diego251011"
+    },
+    {
+        "username": "Athena Escanor",
+        "password": "Athena251011"
+    },
+    {
+        "username": "Julian Escanor",
+        "password": "Julian251011"
+    },
+    {
+        "username": "Verol Escanor",
+        "password": "Verol251011"
+    },
+    {
+        "username": "Deva Escanor",
+        "password": "Deva251011"
+    },
+    {
+        "username": "Suzie Escanor",
+        "password": "Suzie251011"
+    },
+    {
+        "username": "Ethan Escanor",
+        "password": "Ethan251011"
+    }
+]
